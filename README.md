@@ -1,6 +1,9 @@
 # Automated-Expense-Management-Tool
 This project analyzes the Supermart Grocery Sales Dataset to uncover insights on customer behavior and store performance in Tamil Nadu. Using Python (Pandas, Matplotlib, Seaborn), it explores, cleans, and visualizes data on sales, discounts, and profits.
 
+# Dataset: Supermart Grocery Sales - Retail Analytics Dataset
+  Link:- https://www.kaggle.com/datasets/mohamedharris/supermart-grocery-sales-retail-analytics-dataset
+  
 # Objective
 The primary objective of this project is to analyze grocery sales data to:
 1) Understand sales trends by category and subcategory.                             
